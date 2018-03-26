@@ -25,7 +25,11 @@ NICA ANDREEA MARIA
 	jocul se termina.
 		Daca pe tabla de joc se generezeaza in urma unei mutari o celula cu valoarea 2048 atunci jocul este castigat.
 		
-		Optiunea undo este valida doar pentru ultima mutare.
+		Optiunea undo este valida doar pentru ultima mutare executata.
+		
+		Jucatorul are la dispozitie un meniu, de unde poate alege sa inceapa un joc nou, ce contine jocul curent sau sa iasa din joc.
+		
+		
 
 	Compilare in linia de comanda: make
 	Rulare: make run
